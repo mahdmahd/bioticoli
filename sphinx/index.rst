@@ -13,6 +13,7 @@
 
    
    macrolide
+   AMINOGLYCOSIDES
    summary
 |
 ----
